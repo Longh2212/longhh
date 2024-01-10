@@ -7,7 +7,7 @@ const noBtn = document.querySelector(".no-btn");
 yesBtn.addEventListener("click", () => {
   question.innerHTML = "ehehe t biết mà =)))";
   gif.src =
-    "file:///C:/Users/Admin/Desktop/long/messengerforu/av.gif";
+    "https://raw.githubusercontent.com/Longh2212/longhh/main/av.gif?token=GHSAT0AAAAAACMGXDKQKJIVQ3VI4ZAXDDKYZM6VIMA";
 });
 
 noBtn.addEventListener("mouseover", () => {
